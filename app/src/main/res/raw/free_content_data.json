@@ -11,16 +11,11 @@
         },
         {
           "id": 2,
-          "title": "Youtube",
-          "url": "https://ddownloader.com/"
-        },
-        {
-          "id": 3,
           "title": "Instagram",
           "url": "https://downloadgram.com/"
         },
         {
-          "id": 4,
+          "id": 3,
           "title": "Tiktok",
           "url": "https://ssstik.io/"
         }
