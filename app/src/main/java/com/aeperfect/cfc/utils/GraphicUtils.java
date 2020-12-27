@@ -50,9 +50,8 @@ public class GraphicUtils {
 
         socialLogos = new HashMap<>();
         socialLogos.put(1, context.getDrawable(R.drawable.ic_facebook));
-        socialLogos.put(2, context.getDrawable(R.drawable.ic_youtube));
-        socialLogos.put(3, context.getDrawable(R.drawable.ic_instagram));
-        socialLogos.put(4, context.getDrawable(R.drawable.ic_tiktok));
+        socialLogos.put(2, context.getDrawable(R.drawable.ic_instagram));
+        socialLogos.put(3, context.getDrawable(R.drawable.ic_tiktok));
     }
 
     @SuppressLint("UseCompatLoadingForDrawables")
